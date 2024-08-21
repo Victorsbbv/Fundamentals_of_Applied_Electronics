@@ -1,1 +1,1 @@
-### - All of the codes and programs made in the Fundamentals of Applied Electronics Logic class
+### - All of the codes, programs and material made in the Fundamentals of Applied Electronics Logic class
